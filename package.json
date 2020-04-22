@@ -1,0 +1,24 @@
+{
+  "name": "DevTestApp20200423",
+  "version": "1.0.0",
+  "description": "スプレッドシートとslackを連携させてボットに通知をさせるslackアプリを作成する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosodaaaaa/DevTestApp20200423.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosodaaaaa/DevTestApp20200423/issues"
+  },
+  "homepage": "https://github.com/hosodaaaaa/DevTestApp20200423#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
